@@ -19,15 +19,13 @@ La aplicación permite a los usuarios ingresar nombres de amigos en una lista y 
 ## 🖼️ Vista previa
 
 ### 📌 Pantalla principal
-![Pantalla principal](assets/screenshot1.png)
+![Pantalla principal](CapturaInicio.png)
 
 ### 📌 Nombres añadidos
-![Lista de nombres](assets/screenshot2.png)
+![Lista de nombres](Nombres.png)
 
 ### 📌 Resultado del sorteo
-![Resultado del sorteo](assets/screenshot3.png)
-
-📹 También puedes ver el funcionamiento en este [video demostrativo](assets/demo.mp4).
+![Resultado del sorteo](Sorteo.png)
 
 ---
 
